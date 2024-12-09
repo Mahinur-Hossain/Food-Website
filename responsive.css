@@ -1,0 +1,40 @@
+@media only screen and (max-width:750px){
+    .Gallery_sec .container .gallOne .picture{
+       margin-bottom: 30px;
+        
+      }
+      .Gallery_sec .container .gallTwo .picture{
+        margin-bottom: 30px;
+        
+      }
+}
+
+@media only screen and (max-width:1200px){
+  .company_info{
+    padding: 20px 0;
+  }
+  .company_info .container .row .info_two a{
+   
+  
+    padding: 5px 17px;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 10px;
+    
+  }
+}
+
+@media only screen and (max-width:750px){
+  .company_info{
+    padding: 5px 0;
+  }
+  .company_info .container .row .info_two a{
+   
+  
+    padding: 5px 17px;
+    border-radius: 5px;
+    margin-bottom: 12px;
+    font-size: 10px;
+    
+  }
+}
